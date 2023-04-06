@@ -1,0 +1,46 @@
+/**
+ * @name RosEspresso
+ * @author Vozer
+ * @version 4.2023
+ * @description Espresso with RP Characteristics
+ * @source https://github.com/SlippingGittys-Discord-Themes
+ * @website https://slippinggitty.github.io/
+*/
+
+/* Vozy's Espresso Theme */
+@import url('https://slippinggittys-discord-Themes.github.io/Espresso-Discord-Theme/themes/source.css');
+
+/* Lavender Discord's IconSax Port */
+@import url("https://lavender-discord.github.io/IconsaxDiscord/theme.css");
+
+/* The RosiePink/RosieCord Styling */
+@import url('https://slippinggittys-discord-Themes.github.io/Espresso-Discord-Theme/themes/dark/rosiepink.css');
+
+/* Font */
+@import url('https://slippinggittys-discord-Themes.github.io/Espresso-Discord-Theme/themes/fixations/fonts/productsans.css');
+
+/* IconSax Attach Button Adujustment */
+.attachButtonInner-2mwer8 {
+    height: 23px;
+    margin-left: -12px;
+    margin-right: -22px;
+  }
+
+/* --------- Faux Title Bar macOS x-+ ---------  
+> The faux title bar itself */
+.typeMacOS-3V4xXE {
+    position: relative;
+    width: 100%;
+    height: 35px;
+  }
+  .theme-dark .typeMacOS-3V4xXE {
+    background: rgba(0, 0, 0, 0.289);
+  }
+  .theme-light .typeMacOS-3V4xXE {
+    background: var(--PGBackground);
+    border-bottom: 0px solid rgba(186, 186, 186, 0.386);
+  } 
+  .platform-osx .wrapper-1_HaEi {
+    margin: 0;
+    padding: 0;
+  }
