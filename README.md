@@ -1,4 +1,5 @@
 # RozierCord
 A RosieCord inspired fork of the Espresso Discord theme
 
-![SCR-20230406-cwyn](https://user-images.githubusercontent.com/76500838/230454859-654b0765-c0be-4035-9c37-343b11e37e0d.png)
+![image](https://user-images.githubusercontent.com/76500838/230555150-836ca78f-fa4b-4d9b-82b4-cfc457e955fa.png)
+
