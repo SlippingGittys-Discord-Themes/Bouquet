@@ -1,14 +1,14 @@
 /**
- * @name RosEspresso
+ * @name RozierCord
  * @author Vozer
  * @version 4.2023
- * @description Espresso with RP Characteristics
+ * @description Rosiedetta will be real in 2023
  * @source https://github.com/SlippingGittys-Discord-Themes
  * @website https://slippinggitty.github.io/
 */
 
-/* Vozy's Espresso Theme */
-@import url('https://slippinggittys-discord-Themes.github.io/Espresso-Discord-Theme/themes/source.css');
+/* Source to theme */
+@import url('https://raw.githubusercontent.com/SlippingGitty/RozierCord/main/theme/source.css');
 
 /* Lavender Discord's IconSax Port */
 @import url("https://lavender-discord.github.io/IconsaxDiscord/theme.css");
@@ -44,3 +44,4 @@
     margin: 0;
     padding: 0;
   }
+
