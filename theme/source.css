@@ -1,3 +1,54 @@
+/* Stupid Fucking Bullshit I Need To Fix Like Really God Damned Badly */
+/* Context & Status Menus */
+.menu-2TXYjN {
+  background: none;
+}
+.menu-2TXYjN::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  border-radius: inherit;
+  background-color: var(--PGBackgroundD);
+  backdrop-filter: blur(15px);
+  box-shadow: 0 0 3px 1px rgba(0, 0, 0, 0.483);
+  border-radius: 5px;
+}
+
+.container-ZMc96U.themed-Hp1KC_, .messagesPopoutWrap-3zryHW, .sidebarRegionScroller-FXiQOh, .wrapper-1gVUIN.minimum-fXpVNc, .drawerSizingWrapper-1txdWG, .browser-mnQ1T7, .grid-1aWVsE, .resultsGroup-cfY57t, .newMessagesBar-1hF-9G, .wrapper-2vIMkT {
+  backdrop-filter: blur(5px);
+}
+
+.drawerSizingWrapper-1txdWG, .browser-mnQ1T7, .container-2rzKKA, .resultsGroup-cfY57t {
+  border: 1px solid var(--accentD); 
+  border-radius: 5px;
+}
+
+div#account.menu-2TXYjN.flexible-3B4jwn.menu-KSaHL1::after, div.userPopoutOverlayBackground-3A0Pcz.overlayBackground-2aa7wt {
+  background: none !important;
+  backdrop-filter: blur(10px);
+  box-shadow: none !important;
+  z-index: 1;
+}
+
+.option-ayUoaq:after {
+  background: none;
+}
+
+/* The World's Shitiest Solution to a Very Simple Problem */
+.layer-2BGhQ8,
+.backdrop-2ByYRN,
+.withLayer-2VVmpp,
+.modal-3Crloo {
+    z-index: -1;
+}
+
+
+
+
+
+
+
 /*------------------- Source to RozierCord --------------*/
 
 
