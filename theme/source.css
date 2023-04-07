@@ -1214,12 +1214,13 @@ code,
 }
 
 .theme-dark .members-3WRCEx {
-    margin-top: 10px;
-    margin-left: 10px;
-    margin-right: 15px;
-    margin-bottom: 10px;
-    border-right: solid 1px var(--accentD);
-    background-color: var(--background-floating);
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 15px;
+  margin-bottom: 10px;
+  border: solid 0px var(--accentD);
+  border-radius: 15px;
+  background-color: var(--background-floating);
 }
 
 .theme-dark .member-48YF_l {
