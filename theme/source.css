@@ -41,6 +41,11 @@ div#account.menu-2TXYjN.flexible-3B4jwn.menu-KSaHL1::after, div.userPopoutOverla
   background: none;
 }
 
+.popout-TdhJ6Z, .chatContent-3KubbW .form-3gdLxP .typing-2J1mQU {
+    backdrop-filter: blur(15px);
+}
+
+
 /* The World's Shitiest Solution to a Very Simple Problem */
 .layer-2BGhQ8,
 .backdrop-2ByYRN,
