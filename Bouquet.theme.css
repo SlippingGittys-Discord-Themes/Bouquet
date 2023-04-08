@@ -1,5 +1,5 @@
 /**
- * @name RozierCord
+ * @name Bouquet
  * @author Vozer
  * @version 4.2023
  * @description Rosiedetta will be real in 2023
@@ -9,6 +9,8 @@
 
 /* Source to theme */
 @import url('https://raw.githubusercontent.com/SlippingGitty/RozierCord/main/theme/source.css');
+@import url('https://slippinggittys-discord-Themes.github.io/Espresso-Discord-Theme/themes/fixations/style changes/NoShadows.css');
+@import url('https://raw.githubusercontent.com/qt-kaneko/Chat-Bubbles/main/ChatBubbles.theme.css');
 
 /* Lavender Discord's IconSax Port */
 @import url("https://lavender-discord.github.io/IconsaxDiscord/theme.css");
