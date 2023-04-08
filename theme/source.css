@@ -54,7 +54,7 @@ div#account.menu-2TXYjN.flexible-3B4jwn.menu-KSaHL1::after, div.userPopoutOverla
 .backdrop-2ByYRN,
 .withLayer-2VVmpp,
 .modal-3Crloo {
-    z-index: -1;
+    z-index: 0;
 }
 
 
