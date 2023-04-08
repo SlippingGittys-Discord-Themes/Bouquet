@@ -1,7 +1,5 @@
 /* Stupid Fucking Bullshit I Need To Fix Like Really God Damned Badly */
 
-@import url('https://slippinggittys-discord-Themes.github.io/Espresso-Discord-Theme/themes/fixations/style changes/NoShadows.css');
-
 /* Context & Status Menus */
 .menu-2TXYjN {
   background: none;
@@ -1245,14 +1243,10 @@ code,
     font-size: 14px;
 }
 
-
-
-
 /* Reply Highlight */
 
-#app-mount .message-2CShn3 {
-    margin-left: 5px;
-    border-radius: vaR(--accent-focused);
+.theme-dark #app-mount .message-2CShn3 {
+    margin-left: 66px !important;
 }
 
 #app-mount .message-2CShn3::before {
@@ -1289,7 +1283,8 @@ code,
 /* Dark */
 .theme-dark #app-mount .message-2CShn3 {
     margin-left: 5px;
-    border-radius: vaR(--accent-focusedD);
+    border-radius: 15px;
+    background-color: #00000054;
 }
 
 .theme-dark #app-mount .message-2CShn3::before {
