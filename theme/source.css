@@ -1,4 +1,3 @@
-
 /* Stupid Fucking Bullshit I Need To Fix Like Really God Damned Badly */
 
 /* Context & Status Menus */
@@ -1553,15 +1552,15 @@ code,
 
 /* Light */
 .platform-win.app-focused .typeWindows-2-g3UY .winButtonClose-3Q8ZH5 {
-    background-color: var(--accent);
+    background-color: var(--accentD);
 }
 
 .platform-win.app-focused .typeWindows-2-g3UY .winButtonMinMax-3RsPUg:nth-child(2n) {
-    background-color: var(--accent-selected);
+    background-color: var(--accent-selectedD);
 }
 
 .platform-win.app-focused .typeWindows-2-g3UY .winButtonMinMax-3RsPUg:nth-child(3n) {
-    background-color: var(--accent-hover);
+    background-color: var(--accent-hoverD);
 }
 
 /* Dark */
@@ -1579,7 +1578,7 @@ code,
 
 
 .withFrame-2dL45i {
-    height: 10px;
+    height: 12px;
     margin-top: 14px;
     margin-right: 14px;
 }
