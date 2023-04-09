@@ -48,7 +48,9 @@ div#account.menu-2TXYjN.flexible-3B4jwn.menu-KSaHL1::after, div.userPopoutOverla
     backdrop-filter: blur(15px);
 }
 
-
+.scroller-18M1mG {
+  backdrop-filter: blur(5px);
+}
 
 
 
@@ -1236,10 +1238,6 @@ code,
 
 /* Reply Highlight */
 
-.theme-dark #app-mount .message-2CShn3 {
-    margin-left: 66px !important;
-}
-
 #app-mount .message-2CShn3::before {
     border-radius: 6px;
 }
@@ -1272,11 +1270,6 @@ code,
 }
 
 /* Dark */
-.theme-dark #app-mount .message-2CShn3 {
-    margin-left: 5px;
-    border-radius: 15px;
-    background-color: #00000054;
-}
 
 .theme-dark #app-mount .message-2CShn3::before {
     border-radius: 6px;
