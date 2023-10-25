@@ -4,15 +4,15 @@
   fill: var(--accentD);
 }
 
-.scrollableContainer-15eg7h,
-.hasConnectedBar-1vN2JH,
-.preview-QJ3OG3 {
+.scrollableContainer__33e06,
+.hasConnectedBar__277ab,
+.preview_f42b5d {
       border-bottom: solid 1px;
       border-color: var(--accentD);
       border-radius: 1px;
   }
   
-.scrollableContainer-15eg7h:hover {
+.scrollableContainer__33e06:hover {
       transition: .3s;
       box-shadow: 5px 5px 5px 1px rgba(0, 0, 0, 0.198);
 }
